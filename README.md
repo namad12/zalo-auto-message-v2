@@ -51,3 +51,6 @@ Gửi message tự động lên zalo
 - Bước 9: Lưu ý: Trong quá trình test tool thì không nói. Nhưng trước khi chuẩn bị gửi tin nhắn lên lock căn lên nhóm zalo thật. thì trước khi thực hiện các bước từ 1 đến bước 8 như hướng dẫn ở trên thì cần Reload lại trang zalo web để làm mới và để tool chạy ổn định nhất có thể.
   - Ví dụ: ấn nút làm mới để làm mới lại trang zalo trước khi thao tác từ bước 1 đến bước 8
     ![image](https://github.com/user-attachments/assets/198462ff-8077-4266-9d2c-7a7aa2098d60)
+- Bước 10: Cảnh báo: trong quá trình chạy tool cứ 30s tool lại check kết nối tới zalo một lần, nếu không kết nối được tới zalo thì sẽ có thông báo như ảnh bên dưới. Lúc đó người dùng cần thực hiện bấm OK để xác nhận cảnh báo và Reload lại trang zalo ngay. Tránh để lâu thì cứ 30s lại có thông báo cảnh báo như hình bên dưới 1 lần. Nếu cứ để cảnh báo như vậy lâu mờ ko Reload lại trang thì sẽ làm cho web zalo bị lag, đơ. 
+![image](https://github.com/user-attachments/assets/172f9aa9-4ff6-452f-8569-b482186e8b3c)
+
